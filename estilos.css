@@ -1,11 +1,13 @@
 body {
     background-color: #FFFACD;
-    background-image: url(img/bg1.png);
-    background-repeat: no-repeat no-repeat;
+    background-image: url('img/bg1.png');
+    background-repeat: no-repeat;
     background-size: cover;
-    height: 100vh;
-    overflow: auto;
     background-attachment: fixed;
+    height: 100%;
+    margin: 0;
+}
+
    
 }
 
